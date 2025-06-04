@@ -1,1 +1,1994 @@
-
+[
+  {
+    "restaurant": "Caviar House",
+    "dishes": [
+      {
+        "section": "Caviar Party",
+        "name": "Mini Rasputin",
+        "description": "<p>1x 50 gr, 1x Beluga 5cl, 1x blinis, 1x crème fraîche</p>",
+        "price": 80,
+        "stock": 5,
+        "tax": 20
+      },
+      {
+        "section": "Caviar Party",
+        "name": "Rasputin Caviar Party",
+        "description": "<p>1x 250 gr, 1x Beluga vodka 70cl, 2x Blinis, 2x crème fraîche</p>",
+        "price": 390,
+        "stock": 0,
+        "tax": 20
+      }
+    ]
+  },
+  {
+    "restaurant": "Fauchon",
+    "dishes": [
+      {
+        "section": "Un peu d'amour",
+        "name": "Boîte de coeur doré",
+        "description": "<p>x6</p>",
+        "price": 22,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Un peu d'amour",
+        "name": "Boîte de coeur rose",
+        "description": "<p>x6</p>",
+        "price": 22,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Un peu d'amour",
+        "name": "Boîte de coeur mix",
+        "description": "<p>x15</p>",
+        "price": 39,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Un peu d'amour",
+        "name": "Boîte de chocolat rocher",
+        "description": "<p>x8</p>",
+        "price": 35,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Coeur de saumon fumé",
+        "description": "<p>Saumon d'Ecosse</p>",
+        "price": 39,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Saumon fumé / 2 tranches",
+        "description": "<p>100g</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Saumon fumé / 4 tranches",
+        "description": "<p>200g</p>",
+        "price": 30,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Oeufs de saumon",
+        "description": "<p>100g</p>",
+        "price": 50,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Foie gras d'oie (frais)",
+        "description": "<p>40g</p>",
+        "price": 22,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Foie gras d'oie truffé (frais)",
+        "description": "<p>40g</p>",
+        "price": 31,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Mille feuille de foie gras de canard",
+        "description": "<p>Truffé à 6% / 180g</p>",
+        "price": 127,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Foie gras d'oie truffé",
+        "description": "<p>180g</p>",
+        "price": 116,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Caviar 50g Beluga",
+        "description": "<p>Origine France</p>",
+        "price": 572,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Frais",
+        "name": "Caviar 125g Beluga",
+        "description": "<p>Origine France</p>",
+        "price": 1375,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Toute la Truffe",
+        "name": "Sel de Guérande",
+        "description": "<p>Aromatisé à la truffe d'hiver 2,2%</p>",
+        "price": 23,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Toute la Truffe",
+        "name": "Miel d'Acacia",
+        "description": "<p>A la truffe d'été 2,2% aromatisé</p>",
+        "price": 28,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Toute la Truffe",
+        "name": "Truffes noires entières",
+        "description": "<p> 12,5g</p>",
+        "price": 63,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Toute la Truffe",
+        "name": "Lamelles de truffes d'été",
+        "description": "<p>37,5%, dans l'huile de tournesol / 40g</p>",
+        "price": 22,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Toute la Truffe",
+        "name": "Noix de cajou",
+        "description": "<p>Parfum truffe</p>",
+        "price": 19,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Toute la Truffe",
+        "name": "Sablés à la truffe",
+        "description": "<p> </p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Foie gras",
+        "name": "Foie gras de canard 90g",
+        "description": "<p> Canard entier Français</p>",
+        "price": 41,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Foie gras",
+        "name": "Foie gras de canard 180g",
+        "description": "<p>Canard entier du sud-ouest</p>",
+        "price": 73,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Foie gras",
+        "name": "Foie gras de canard à la truffe",
+        "description": "<p>Truffé à 5% / 90g</p>",
+        "price": 69,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Foie gras",
+        "name": "Foie gras d'oie 50g",
+        "description": "<p>Recette d'Alsace</p>",
+        "price": 37,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Foie gras",
+        "name": "Foie gras d'oie 180g",
+        "description": "<p>Recette d'Alsace</p>",
+        "price": 101,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Terrines",
+        "name": "Terrine à la truffe d'été",
+        "description": "<p>Aromatisé à 2%</p>",
+        "price": 11,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Terrines",
+        "name": "Terrine au foie gras",
+        "description": "<p> </p>",
+        "price": 13,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Terrines",
+        "name": "Terrine au vin rouge",
+        "description": "<p> </p>",
+        "price": 8.5,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Terrines",
+        "name": "Terrine Fauchon",
+        "description": "<p>Made in Fauchon</p>",
+        "price": 8.5,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Terrines",
+        "name": "Effiloché de poulet",
+        "description": "<p>Au citron confit</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Terrines",
+        "name": "Terrine de canard",
+        "description": "<p> </p>",
+        "price": 8.5,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Tartinables",
+        "name": "Tartinable aubergine",
+        "description": "<p>Aubergine, ricotta &amp; menthe</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Tartinables",
+        "name": "Tartinable poivron",
+        "description": "<p>Poivron et mascarpone</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Tartinables",
+        "name": "Tartinable courgettes",
+        "description": "<p>Au fromage de chèvre</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Tartinables",
+        "name": "Tartinable artichauts",
+        "description": "<p>Artichauts &amp; fromage frais</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Compotées",
+        "name": "Gelée au champagne",
+        "description": "<p> </p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Compotées",
+        "name": "Chutney de mangue",
+        "description": "<p>Mangue &amp; poivre de Sichuan</p>",
+        "price": 8,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Compotées",
+        "name": "Compotée d'oignons",
+        "description": "<p> </p>",
+        "price": 7,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Compotées",
+        "name": "Compotée de figues",
+        "description": "<p> </p>",
+        "price": 7,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Confitures",
+        "name": "Confiture de fraise",
+        "description": "<p>250g</p>",
+        "price": 13,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Confitures",
+        "name": "Confiture d'orange amère",
+        "description": "<p>250g</p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Confitures",
+        "name": "Confiture d'abricot",
+        "description": "<p>250g</p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Confitures",
+        "name": "Confiture de figue",
+        "description": "<p>250g</p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Confitures",
+        "name": "Confiture de pétales de rose",
+        "description": "<p>250g</p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Confitures",
+        "name": "Crème de marrons",
+        "description": "<p>250g</p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Miel",
+        "name": "Miel d'acacia",
+        "description": "<p>250g</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Miel",
+        "name": "Miel de lavande",
+        "description": "<p>Provence / 250g</p>",
+        "price": 20,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Miel",
+        "name": "Miel de fleurs",
+        "description": "<p>France / 250g</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Tout le Miel",
+        "name": "Miel d'acacia à la rose",
+        "description": "<p>125g</p>",
+        "price": 20,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Chocolats",
+        "name": "Boîte de chocolat par 8",
+        "description": "<p> </p>",
+        "price": 24,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Chocolats",
+        "name": "Boîte de chocolat par 15",
+        "description": "<p> </p>",
+        "price": 38,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Chocolats",
+        "name": "Boîte de chocolats par 24",
+        "description": "<p> </p>",
+        "price": 52,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Chocolats",
+        "name": "Boîte de chocolat par 36",
+        "description": "<p> </p>",
+        "price": 68,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Biscuits",
+        "name": "Truffes au chocolat noir",
+        "description": "<p> </p>",
+        "price": 19,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Biscuits",
+        "name": "Truffes au chocolat & crêpes croustillantes",
+        "description": "<p> </p>",
+        "price": 19,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Biscuits",
+        "name": "Truffes au chocolat & noisettes",
+        "description": "<p> </p>",
+        "price": 21,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Biscuits",
+        "name": "Assortiment de crêpes dentelle",
+        "description": "<p>Nature &amp; enrobé de chocolat au lait</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Biscuits",
+        "name": "Assortiment de 47 biscuits fins",
+        "description": "<p> </p>",
+        "price": 31,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Les Macarons",
+        "name": "Boîte de 12 macarons",
+        "description": "<p> </p>",
+        "price": 42,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Un peu de Vin",
+        "name": "La Doucette / Pouilly-Fumé",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Un peu de Vin",
+        "name": "Comte LaFond / Sancerre",
+        "description": "<p> </p>",
+        "price": 40,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Un peu de Vin",
+        "name": "Grand Régnard / Chablis",
+        "description": "<p> </p>",
+        "price": 50,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Un peu de Vin",
+        "name": "Baron de L / Pouilly fumé",
+        "description": "<p> </p>",
+        "price": 111,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Un peu de Vin",
+        "name": "Château-Figeac",
+        "description": "<p>2015</p>",
+        "price": 545,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Un peu de Vin",
+        "name": "Château Lynch Bages",
+        "description": "<p>2014</p>",
+        "price": 281,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Un peu de Vin",
+        "name": "Clos Vougeot",
+        "description": "<p>2019</p>",
+        "price": 435,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Laurent-Perrier / Brut",
+        "description": "<p> </p>",
+        "price": 72,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Laurent-Perrier / Rosé",
+        "description": "<p>  </p>",
+        "price": 138,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Laurent-Perrier / Blanc de blancs",
+        "description": "<p> </p>",
+        "price": 160,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Fauchon / Brut",
+        "description": "<p> </p>",
+        "price": 46,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Fauchon / Rosé",
+        "description": "<p> </p>",
+        "price": 63,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Fauchon / Blanc de blancs",
+        "description": "<p> </p>",
+        "price": 83,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Billecart-Salmon / La réserve",
+        "description": "<p> </p>",
+        "price": 76,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Billecart-Salmon / Rosé",
+        "description": "<p> </p>",
+        "price": 105,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Bollinger / La Grande Année",
+        "description": "<p>2015</p>",
+        "price": 259,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Champagnes",
+        "name": "Bollinger / R.D 2007",
+        "description": "<p> </p>",
+        "price": 380,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "Bas Armagnac / Baron G. Legrand",
+        "description": "<p>Choisir le millésime </p>",
+        "price": 160,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "Grappa Sassicaia",
+        "description": "<p>  </p>",
+        "price": 198,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "The Gardener GIN",
+        "description": "<p>French Riviera</p>",
+        "price": 51,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "La Distillerie de Monaco / Gin aux agrumes",
+        "description": "<p>50cl</p>",
+        "price": 75,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "Prince Explorer",
+        "description": "<p>Monaco Gin / 50cl</p>",
+        "price": 101,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "Rhum Brugal",
+        "description": "<p>Maestro Reserva</p>",
+        "price": 275,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "Charles 3 X.O",
+        "description": "<p> </p>",
+        "price": 380,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "Lheraud / Extra",
+        "description": "<p> </p>",
+        "price": 281,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Les Spiritueux",
+        "name": "Lheraud / Obusto",
+        "description": "<p> </p>",
+        "price": 270,
+        "stock": 1000,
+        "tax": 20
+      }
+    ]
+  },
+  {
+    "restaurant": "Riviera",
+    "dishes": [
+      {
+        "section": "Lunch Box",
+        "name": "Lunch gaufrre vitello",
+        "description": "<p>Gauffre vitello tonato, 2 salés, 1 dessert au choix, 2 mini gateaux &amp; 1 boisson</p>",
+        "price": 45,
+        "stock": 2,
+        "tax": 10
+      },
+      {
+        "section": "Lunch Box",
+        "name": "Lunch toast avocat betterave",
+        "description": "<p>Toast avocat betterave, 2 salés, 1 dessert au choix, 2 mini gateaux et 1 boisson</p>",
+        "price": 45,
+        "stock": 2,
+        "tax": 10
+      },
+      {
+        "section": "Lunch Box",
+        "name": "Lunch croissant saumon",
+        "description": "<p>1 croissant saumon zaatar, 2 salés, 1 dessert au choix, 2 mini gateaux &amp; 1 boisson</p>",
+        "price": 45,
+        "stock": 2,
+        "tax": 10
+      },
+      {
+        "section": "Plats",
+        "name": "Toast avocat",
+        "description": "<p>  </p>",
+        "price": 20,
+        "stock": 2,
+        "tax": 10
+      },
+      {
+        "section": "Plats",
+        "name": "Croissant saumon",
+        "description": "<p>Au Zaatar</p>",
+        "price": 20,
+        "stock": 2,
+        "tax": 10
+      },
+      {
+        "section": "Plats",
+        "name": "Gaufre vitello",
+        "description": "<p> </p>",
+        "price": 21,
+        "stock": 2,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Gateau pomme noisette",
+        "description": "<p>Sans gluten</p>",
+        "price": 10,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Tarte aux pommes",
+        "description": "<p> </p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Cecilia",
+        "description": "<p>Poires &amp; chocolat</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Cheesecake cerise",
+        "description": "<p>Sans gluten</p>",
+        "price": 10,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Royal",
+        "description": "<p>Mousse chocolat &amp; biscuit praliné</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Low sugar mangue",
+        "description": "<p>SANS SUCRE</p>",
+        "price": 8,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Kievsky",
+        "description": "<p>Meringue &amp; crème d'amande praliné</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Makovy",
+        "description": "<p>Sans gluten, graine de pavot &amp; cassis</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Miedovick",
+        "description": "<p>Gateau au miel</p>",
+        "price": 10,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Mousse framboise",
+        "description": "<p> </p>",
+        "price": 8,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Religieuse",
+        "description": "<p>Crème vanille &amp; coeur de cassis</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Pâtisseries",
+        "name": "Tarte citron",
+        "description": "<p> </p>",
+        "price": 8,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Gâteaux (pour 4,6,8)",
+        "name": "Grand fraisier",
+        "description": "<p> </p>",
+        "price": 55,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Gâteaux (pour 4,6,8)",
+        "name": "Grande mousse framboise",
+        "description": "<p> </p>",
+        "price": 52,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Gâteaux (pour 4,6,8)",
+        "name": "Grand Royal",
+        "description": "<p>Sans gluten</p>",
+        "price": 60,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Gâteaux (pour 4,6,8)",
+        "name": "Grande tarte fruits rouges",
+        "description": "<p> </p>",
+        "price": 54,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Confiture d'abricot",
+        "description": "<p>80% abricot, 20% miel</p>",
+        "price": 44,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Crème de calisson",
+        "description": "<p> </p>",
+        "price": 38,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Foie gras",
+        "description": "<p> </p>",
+        "price": 69,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Miel",
+        "description": "<p> </p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Miel & noix fruits sec",
+        "description": "<p>Noix, fruits secs </p>",
+        "price": 105,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Champagne Riviera",
+        "description": "<p>Blanc de blancs</p>",
+        "price": 103,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Caviar",
+        "description": "<p>250g</p>",
+        "price": 460,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Épicerie fine",
+        "name": "Roses",
+        "description": "<p> </p>",
+        "price": 30,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Boîte chocolat",
+        "description": "<p> </p>",
+        "price": 83,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Grand Calissons",
+        "description": "<p> </p>",
+        "price": 32,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Chocolat au lait",
+        "description": "<p>Sans sucre</p>",
+        "price": 31,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Chocolat noir",
+        "description": "<p>Sans sucre</p>",
+        "price": 31,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Dragées bleues",
+        "description": "<p> </p>",
+        "price": 13,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Dragées roses",
+        "description": "<p> </p>",
+        "price": 13,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Marrons glacés x5",
+        "description": "<p> </p>",
+        "price": 28,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Mendiant",
+        "description": "<p> </p>",
+        "price": 33,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Orangette",
+        "description": "<p> </p>",
+        "price": 41,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Pâtes de fruits",
+        "description": "<p> </p>",
+        "price": 33,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Tablette de chocolat",
+        "description": "<p> </p>",
+        "price": 22,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Confiserie",
+        "name": "Zabaglione",
+        "description": "<p> </p>",
+        "price": 39,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Chocolat chaud",
+        "description": "<p> </p>",
+        "price": 50,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Camomille sauge",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Earl grey",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Thé noir fumé",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Thé marron glacé",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Thé noir agrumes",
+        "description": "<p>  </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Thé",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Thé macaron violette",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Tisane prince",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Tisane",
+        "description": "<p> </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Thé vert noël",
+        "description": "<p>  </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Thé & Chocolat",
+        "name": "Thé noir noël",
+        "description": "<p>  </p>",
+        "price": 43,
+        "stock": 1000,
+        "tax": 10
+      }
+    ]
+  },
+  {
+    "restaurant": "Panino Club",
+    "dishes": [
+      {
+        "section": "Panini & Focaccia",
+        "name": "Ponza",
+        "description": "<p>Jambon cuit, brie, tomate, sauce tartare</p>",
+        "price": 15,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Favignana",
+        "description": "<p>Jambon de Prague, mozzarella, tomate, basilic</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Stromboli",
+        "description": "<p>Jambon cuit, stracciatella, courgettes, zeste de citron</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "San Martino",
+        "description": "<p>Jambon de Prague, edam, sauce cocktail</p>",
+        "price": 15,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Filicudi",
+        "description": "<p>Parma, gorgonzola, noix, sauce de poire</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Ischia",
+        "description": "<p>Parma, mozzarella, tomate, basilic</p>",
+        "price": 18.5,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Tavolara",
+        "description": "<p>Culatello di Zibello, mozzarella, jardinière de légumes, poivre</p>",
+        "price": 20.5,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Pantelleria",
+        "description": "<p>Bresaola, roquette, parmigiano reggiano 24 mois, tomate, pistou</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Giannutri",
+        "description": "<p>Bresaola, chèvre, mousse avocat &amp; concombre, sauce framboise</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Eolie",
+        "description": "<p>Roastbeef, brie, courgette, roquette, mayonnaise</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Lipari",
+        "description": "<p>Salame Napoli, pecorino, asperges, tapenade</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Elba",
+        "description": "<p>Mortadella, endives braisées, fontina dolce, pistache</p>",
+        "price": 15,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Budello",
+        "description": "<p>Mortadella, mozzarella, courgettes zeste de citron</p>",
+        "price": 15,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Ventotene",
+        "description": "<p>Speck, brie, tomate, aubergine grillée</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Capraia",
+        "description": "<p>Milanese de veau, mozzarella, tomate, roquette, mayonnaise</p>",
+        "price": 21.5,
+        "stock": 0,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Palmarola",
+        "description": "<p>Poulet grillé, tomate, mesclun, mayonnaise</p>",
+        "price": 15,
+        "stock": 99,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Giglio",
+        "description": "<p>Courgettes et aubergines grillées, tomates séchées, houmous</p>",
+        "price": 13,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Monte Cristo",
+        "description": "<p>Tomate, mozzarella, poivre, basilic</p>",
+        "price": 13,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Linosa",
+        "description": "<p>Saumon fumé, stracciatella, sauce de poire, gelée de citron</p>",
+        "price": 18.5,
+        "stock": 999,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Salina",
+        "description": "<p>Parma, brie, tomate, sauce tartare</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Panarea",
+        "description": "<p>Salame Milano, chèvre, tomates séchées, aubergines, basilic</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Caprera",
+        "description": "<p>Speck, stracchino, artichauts grillés, olives, noix</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Panini & Focaccia",
+        "name": "Pianosa",
+        "description": "<p>Courgettes et artichauts grillées, straciatella, basilic</p>",
+        "price": 13,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Dolce",
+        "name": "Cheesecake",
+        "description": "<p> </p>",
+        "price": 10,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Dolce",
+        "name": "Panna Cotta",
+        "description": "<p> </p>",
+        "price": 8,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Dolce",
+        "name": "Tiramisu",
+        "description": "<p> </p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Succhi",
+        "name": "Pago pomme",
+        "description": "<p> </p>",
+        "price": 7,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Succhi",
+        "name": "Pago ACE",
+        "description": "<p> </p>",
+        "price": 7,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Succhi",
+        "name": "Pago ananas",
+        "description": "<p> </p>",
+        "price": 7,
+        "stock": 1000,
+        "tax": 5.5
+      },
+      {
+        "section": "Succhi",
+        "name": "Pago poire",
+        "description": "<p>  </p>",
+        "price": 7,
+        "stock": 1000,
+        "tax": 5.5
+      }
+    ]
+  },
+  {
+    "restaurant": "By Orphéa",
+    "dishes": [
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick XS",
+        "description": "<p>Taille 10 cm      Durée  26 heures</p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick S",
+        "description": "<p> </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick M",
+        "description": "<p> </p>",
+        "price": 90,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick L",
+        "description": "<p> </p>",
+        "price": 120,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Bleuet",
+        "name": "Bleuet XS",
+        "description": "<p>Taille 10 cm      Durée   26 heures </p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Bleuet",
+        "name": "Bleuet S",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Bleuet",
+        "name": "Bleuet L",
+        "description": "<p> </p>",
+        "price": 120,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Châteaux",
+        "name": "Château M",
+        "description": "<p> </p>",
+        "price": 90,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Châteaux",
+        "name": "Château L",
+        "description": "<p> </p>",
+        "price": 120,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique XS",
+        "description": "<p>Taille  10 cm       Durée  26 heures </p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique S",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique M",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique XL",
+        "description": "<p> </p>",
+        "price": 195,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Monaco",
+        "name": "Monaco M",
+        "description": "<p>   </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Monaco",
+        "name": "Monaco XXL",
+        "description": "<p>  </p>",
+        "price": 240,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Dolce",
+        "name": "Dolce XS",
+        "description": "<p>Taille  10 cm     Durée  26 heures</p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Dolce",
+        "name": "Dolce S",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Dolce",
+        "name": "Dolce M",
+        "description": "<p>  </p>",
+        "price": 90,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Printemps",
+        "name": "Printemps  S",
+        "description": "<p>Taille 10 cm Durée 26 heures Senteur vanille</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Printemps",
+        "name": "Printemps   M",
+        "description": "<p>Taille 12cm x 9 cm Durée 35 heures  Senteur Vanille</p>",
+        "price": 75,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Dolce Vita",
+        "description": "<p>  </p>",
+        "price": 250,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Manhattan",
+        "description": "<p>  </p>",
+        "price": 215,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Antoinette",
+        "description": "<p>Taille 5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Love",
+        "description": "<p>Taille 7 cm</p>",
+        "price": 75,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Marguerite",
+        "description": "<p>Taille  5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Bleuet",
+        "description": "<p>Taille  5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Marguerite Marron",
+        "description": "<p>Taille  6 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Printemps",
+        "description": "<p>Taille  9 cm</p>",
+        "price": 95,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Infini",
+        "description": "<p>Taille   5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      }
+    ]
+  },
+  {
+    "restaurant": "For Pets Only",
+    "dishes": [
+      {
+        "section": "Service",
+        "name": "A récupérer & livrer",
+        "description": "<p>On vous livre ce que vous ne voulez pas porter</p>",
+        "price": 5,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate boeuf",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, foie, romarin</p>",
+        "price": 6,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate dinde",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, romarin</p>",
+        "price": 6,
+        "stock": 100,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate agneau",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, romarin</p>",
+        "price": 6,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate poulet",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, foie, coeur, romarin</p>",
+        "price": 6,
+        "stock": 100,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Renale maiale",
+        "description": "<p> </p>",
+        "price": 10,
+        "stock": 100,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Dermatologico ovino",
+        "description": "<p> </p>",
+        "price": 10,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Gastrointestinal tacchino",
+        "description": "<p> </p>",
+        "price": 10,
+        "stock": 10,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Dogcorn fromage",
+        "description": "<p>Popcorn fromage </p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Dogcorn Bacon",
+        "description": "<p>Popcorn bacon</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Macarons",
+        "description": "<p>Pâtisserie</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Os d'anniversaire bleu",
+        "description": "<p>Os bleu pâtisserie, bougie</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Os d'anniversaire rose",
+        "description": "<p>Os rose pâtisserie, bougie</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Patte bleue",
+        "description": "<p>Patte bleue pâtisserie</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Patte rose",
+        "description": "<p>Patte rose pâtisserie</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Beauté",
+        "name": "Parfum",
+        "description": "<p>Pour chien</p>",
+        "price": 72,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Aqua dolce",
+        "description": "<p>Masque hydratant et adoucissant pour les pelages rêches et stressés</p>",
+        "price": 40,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Aqua beauty",
+        "description": "<p>Lait démêlant </p>",
+        "price": 62,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Mix pink",
+        "description": "<p>Produit restructurant bifasé pour les poils longs</p>",
+        "price": 44,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Special rinse",
+        "description": "<p>Shampooing sec express pour chiens</p>",
+        "price": 23,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Acquarosa",
+        "description": "<p>Shampoing</p>",
+        "price": 28,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Aquablu",
+        "description": "<p>Traitement hygiénisant pour les pelages blancs</p>",
+        "price": 23,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Lingettes",
+        "description": "<p>Fragrance coton</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Lingettes",
+        "description": "<p>Musc blanc</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Laisses",
+        "description": "<p>Couleur au choix</p>",
+        "price": 160,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os bleu",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os bleu clair",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os noir",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os blanc",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os orange",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os turquoise",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os rose",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os rouge",
+        "description": "<p>Jouet </p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os marron",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      }
+    ]
+  },
+  {
+    "restaurant": "Pick Up & Livraison",
+    "dishes": [
+      {
+        "section": "Livraison flexible",
+        "name": "Retrait & Livraison",
+        "description": "<p>Indiquez l'objet et sa destination.</p>",
+        "price": 10,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Livraison flexible",
+        "name": "Retrait, Paiement & Livraison",
+        "description": "<p>Choisir une estimation de prix et indiquez l'objet et sa destination.</p>",
+        "price": 12,
+        "stock": 1000,
+        "tax": 20
+      }
+    ]
+  },
+  {
+    "restaurant": "Réparation téléphones, tablettes",
+    "dishes": [
+      {
+        "section": "Devis",
+        "name": "Smartphone cassé",
+        "description": "<p>Nous récupérons votre smartphone et vous rappelons pour vous donner un prix</p>",
+        "price": 0,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Devis",
+        "name": "Tablette cassée",
+        "description": "<p>Nous récupérons votre tablette et vous rappelons pour vous donner un prix</p>",
+        "price": 0,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Devis",
+        "name": "Ordinateur portable cassé",
+        "description": "<p>Nous récupérons votre ordinateur et vous rappelons pour vous donner un prix</p>",
+        "price": 0,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Devis",
+        "name": "Appareil oxidé",
+        "description": "<p>Nous établissons un diagnostic et examinons les possibilités.</p>",
+        "price": 55,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Transfert de données",
+        "name": "De iPhone à iPhone",
+        "description": "<p></p>",
+        "price": 55,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Transfert de données",
+        "name": "D'Android à Android",
+        "description": "<p> </p>",
+        "price": 55,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Transfert de données",
+        "name": "De iPhone à Android",
+        "description": "<p></p>",
+        "price": 100,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Transfert de données",
+        "name": "D'ordi portable à disque dure",
+        "description": "<p></p>",
+        "price": 100,
+        "stock": 1000,
+        "tax": 20
+      }
+    ]
+  }
+]
