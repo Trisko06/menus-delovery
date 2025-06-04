@@ -1,1 +1,516 @@
-
+[
+  {
+    "restaurant": "By Orphéa",
+    "dishes": [
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick XS",
+        "description": "<p>Taille 10 cm      Durée  26 heures</p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick S",
+        "description": "<p> </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick M",
+        "description": "<p> </p>",
+        "price": 90,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection St-Patrick",
+        "name": "St-Patrick L",
+        "description": "<p> </p>",
+        "price": 120,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Bleuet",
+        "name": "Bleuet XS",
+        "description": "<p>Taille 10 cm      Durée   26 heures </p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Bleuet",
+        "name": "Bleuet S",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Bleuet",
+        "name": "Bleuet L",
+        "description": "<p> </p>",
+        "price": 120,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Châteaux",
+        "name": "Château M",
+        "description": "<p> </p>",
+        "price": 90,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Châteaux",
+        "name": "Château L",
+        "description": "<p> </p>",
+        "price": 120,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique XS",
+        "description": "<p>Taille  10 cm       Durée  26 heures </p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique S",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique M",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Romantique",
+        "name": "Romantique XL",
+        "description": "<p> </p>",
+        "price": 195,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Monaco",
+        "name": "Monaco M",
+        "description": "<p>   </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Monaco",
+        "name": "Monaco XXL",
+        "description": "<p>  </p>",
+        "price": 240,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Dolce",
+        "name": "Dolce XS",
+        "description": "<p>Taille  10 cm     Durée  26 heures</p>",
+        "price": 45,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Dolce",
+        "name": "Dolce S",
+        "description": "<p>  </p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Dolce",
+        "name": "Dolce M",
+        "description": "<p>  </p>",
+        "price": 90,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Printemps",
+        "name": "Printemps  S",
+        "description": "<p>Taille 10 cm Durée 26 heures Senteur vanille</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Collection Printemps",
+        "name": "Printemps   M",
+        "description": "<p>Taille 12cm x 9 cm Durée 35 heures  Senteur Vanille</p>",
+        "price": 75,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Dolce Vita",
+        "description": "<p>  </p>",
+        "price": 250,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Manhattan",
+        "description": "<p>  </p>",
+        "price": 215,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Antoinette",
+        "description": "<p>Taille 5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Love",
+        "description": "<p>Taille 7 cm</p>",
+        "price": 75,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Marguerite",
+        "description": "<p>Taille  5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Bleuet",
+        "description": "<p>Taille  5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Marguerite Marron",
+        "description": "<p>Taille  6 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Printemps",
+        "description": "<p>Taille  9 cm</p>",
+        "price": 95,
+        "stock": 1,
+        "tax": 20
+      },
+      {
+        "section": "Accessoires",
+        "name": "Broche Infini",
+        "description": "<p>Taille   5,5 cm</p>",
+        "price": 65,
+        "stock": 1,
+        "tax": 20
+      }
+    ]
+  },
+  {
+    "restaurant": "For Pets Only",
+    "dishes": [
+      {
+        "section": "Service",
+        "name": "A récupérer & livrer",
+        "description": "<p>On vous livre ce que vous ne voulez pas porter</p>",
+        "price": 5,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate boeuf",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, foie, romarin</p>",
+        "price": 6,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate dinde",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, romarin</p>",
+        "price": 6,
+        "stock": 100,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate agneau",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, romarin</p>",
+        "price": 6,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Pate poulet",
+        "description": "<p>Carotte, pomme de terre, pomme courgette, foie, coeur, romarin</p>",
+        "price": 6,
+        "stock": 100,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Renale maiale",
+        "description": "<p> </p>",
+        "price": 10,
+        "stock": 100,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Dermatologico ovino",
+        "description": "<p> </p>",
+        "price": 10,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Gastrointestinal tacchino",
+        "description": "<p> </p>",
+        "price": 10,
+        "stock": 10,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Dogcorn fromage",
+        "description": "<p>Popcorn fromage </p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Dogcorn Bacon",
+        "description": "<p>Popcorn bacon</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Macarons",
+        "description": "<p>Pâtisserie</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Os d'anniversaire bleu",
+        "description": "<p>Os bleu pâtisserie, bougie</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Os d'anniversaire rose",
+        "description": "<p>Os rose pâtisserie, bougie</p>",
+        "price": 17,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Patte bleue",
+        "description": "<p>Patte bleue pâtisserie</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Nos délices",
+        "name": "Patte rose",
+        "description": "<p>Patte rose pâtisserie</p>",
+        "price": 16,
+        "stock": 1000,
+        "tax": 10
+      },
+      {
+        "section": "Beauté",
+        "name": "Parfum",
+        "description": "<p>Pour chien</p>",
+        "price": 72,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Aqua dolce",
+        "description": "<p>Masque hydratant et adoucissant pour les pelages rêches et stressés</p>",
+        "price": 40,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Aqua beauty",
+        "description": "<p>Lait démêlant </p>",
+        "price": 62,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Mix pink",
+        "description": "<p>Produit restructurant bifasé pour les poils longs</p>",
+        "price": 44,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Special rinse",
+        "description": "<p>Shampooing sec express pour chiens</p>",
+        "price": 23,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Acquarosa",
+        "description": "<p>Shampoing</p>",
+        "price": 28,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Aquablu",
+        "description": "<p>Traitement hygiénisant pour les pelages blancs</p>",
+        "price": 23,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Lingettes",
+        "description": "<p>Fragrance coton</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Beauté",
+        "name": "Lingettes",
+        "description": "<p>Musc blanc</p>",
+        "price": 9,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Laisses",
+        "description": "<p>Couleur au choix</p>",
+        "price": 160,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os bleu",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os bleu clair",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os noir",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os blanc",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os orange",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os turquoise",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os rose",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os rouge",
+        "description": "<p>Jouet </p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      },
+      {
+        "section": "Jouets & Accessoires",
+        "name": "Os marron",
+        "description": "<p>Jouet</p>",
+        "price": 25,
+        "stock": 1000,
+        "tax": 20
+      }
+    ]
+  }
+]
