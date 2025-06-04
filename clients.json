@@ -1,0 +1,30 @@
+[
+  {
+    "phone": "+33640619123",
+    "name": "Tristan Cassius",
+    "preferences": {
+      "favorite_restaurants": ["Gurbers"],
+      "favorite_dishes": ["Truffle Burger", "Chicken Pop Korn Burger"]
+    }
+  },
+  {
+    "phone": "+33686152965",
+    "name": "Lucas Cassini",
+    "preferences": {
+      "favorite_restaurants": ["Crazy Pizza"],
+      "favorite_dishes": ["Margarita"]
+    }
+  },
+  {
+    "phone": "+33643912170",
+    "name": "Liam Houmani",
+    "preferences": {
+      "favorite_restaurants": ["Beefbar"]
+    }
+  },
+  {
+    "phone": "+33658837131",
+    "name": "Amine Benaceur",
+    "preferences": {}
+  }
+]
