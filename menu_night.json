@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mona Burger",
+    "description": "Cheddar fondant, steak saignant, pain brioché moelleux",
+    "price": 29,
+    "available": true,
+    "category": "Burger"
+  },
+  {
+    "name": "Pizza Truffe",
+    "description": "Crème de truffe, mozzarella fondante, jambon blanc",
+    "price": 31,
+    "available": true,
+    "category": "Pizza"
+  }
+]
